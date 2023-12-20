@@ -1,4 +1,4 @@
-# Hi there 👋 myself [Ashish Dhiman](www.linkedin.com/in/dhiman605)
+# Hi there 👋 myself [Ashish Dhiman](https://www.linkedin.com/in/dhiman605/)
 
 * 🔭 I’m interested in Analysing the data, creating interactive dashboards, Automation and helping folks.
 * 🌱 I’m currently working as an Application engineer and also handling Tech Dispute Management. 
