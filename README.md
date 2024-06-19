@@ -14,3 +14,5 @@
 ## ML/DL/Automation ![numpy](https://github.com/AD006/AD006/assets/96000840/32dbd520-3ad0-4f5c-9372-3db2474a0108) ![pandas](https://github.com/AD006/AD006/assets/96000840/04c9a598-2b46-496d-a7eb-387915c91256) ![matplotlib](https://github.com/AD006/AD006/assets/96000840/28464b82-1685-4904-b410-cf43c2497623) ![selenium_logo](https://github.com/AD006/AD006/assets/96000840/6514da6d-ab54-47e2-955b-200c2b03e737)
 
 ## Visualization Tools ![powerbi](https://github.com/AD006/AD006/assets/96000840/462a5aa1-f669-4b41-91aa-0535aa5bacd7)
+
+## Data Analytics/Cloud computing tool/SaaS ![fabric](https://github.com/AD006/AD006/assets/96000840/75f1d655-e4f6-4eae-8398-246e80801b62)
